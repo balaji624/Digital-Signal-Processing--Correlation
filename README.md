@@ -73,6 +73,6 @@ title('Discrete cross correlated waveform')
 
 
 ## RESULT:
-The Cross correlation of X1[n] and X2[n] is y1[n] = {18.63,20.3,-30.88,19.72,105.75,19.72,-30.88,20.3,18.63}
-The Auto correlation of X1[n] and X2[n] is y1[n] = {13.8,17.55,-9.16,11.53,63.33,64.83,10.17,-11.96,34.05,24.3}
+![IMG_20260331_210052](https://github.com/user-attachments/assets/c2003874-6456-4cb5-acea-7cfab93974b7)
+
 
